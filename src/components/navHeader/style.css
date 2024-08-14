@@ -1,0 +1,24 @@
+.logo-top-nav{
+    width: 98%;
+}
+.logo-top-nav-img {
+    width: 22px;
+    height: 22px;
+    margin: 8px 8px 0 24px;
+}
+
+.logo-top-nav .brand-name {
+    font-size: 84px;
+}
+
+.logo-top-nav img.category {
+    width: 20px;
+    height: 12px;
+
+}
+
+.logo-top-nav img.phone-contact {
+    width: 20px;
+    height: 22px;
+
+}
